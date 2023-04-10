@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-   Sou Desenvolvo web de sites single-page, utilizando a biblioteca REACT, estou em constante estudo tanto no front-end quanto no back-end com a linguagem java.
+   Sou Desenvolvo web de sites single-page, utilizando a biblioteca REACT, estou em constante estudo tanto no front-end quanto no back-end com a linguagem javaScript.
     <a href="https://drive.google.com/file/d/1jEDrDBhGcM1n9ckoenJacTRczV0NhTAf/view" target="_blank">
       <img
            width="4%" 
